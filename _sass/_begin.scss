@@ -1,0 +1,72 @@
+
+@import 'normalize';
+
+$minSupportedWidth: 320px;
+$maxSupportedWidth: 1280px;
+
+$mobileWidth: 540px;
+$tabWidth: 768px;
+$desktopWidth: 1024px;
+
+*,*:before,*:after {
+  box-sizing: border-box;
+}
+
+//
+// Fluid Typography
+//
+@mixin fluidType($min, $max ) {
+  font-size: $min;
+
+  @media screen and (min-width: $minSupportedWidth) {
+    // 960 = 1280-320
+    font-size: calc(#{$min} + #{($max - $min)/1px} * ((100vw - 320px) / 960));
+  }
+
+  @media screen and (min-width: $maxSupportedWidth) {
+    font-size: $max;
+  }
+}
+
+body {
+  font-family: 'Nunito Sans', system-ui, 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 1.3em;
+  margin: 0;
+  color: #2A3D45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img, embed, object, video {
+  max-width: 100%;
+}
+
+//
+// Basic Container Class
+//
+.container {
+  margin: 0 200px;
+  max-width: 1024px;
+
+  @media screen and (min-width: 1600px){
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  @media screen and  (max-width: $mobileWidth) {
+    margin: 0 15px; 
+  }
+
+  @media screen and (max-width: $tabWidth) and (min-width: $mobileWidth){
+    margin: 0 40px;	
+  }
+
+  @media screen and (max-width: $desktopWidth) and (min-width: $tabWidth){
+    margin: 0 80px;
+  }
+
+  @media screen and (min-width: $desktopWidth) and (max-width: 1280px) {
+    margin: 0 100px;
+  }
+}

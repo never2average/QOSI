@@ -1,0 +1,45 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Quark Open</title>
+	<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+	<img id="logo" src="assets/img/logo.png">
+	<header>
+		<img class="hero" width="240" src="assets/img/ideas.svg">	
+		<div>
+			<h1>Quark Open Source Projects</h1>
+			<p>Encouraging young minds to contribute to open source</p>
+			<a href="#projects">
+				<button>See Projects</button>
+			</a>
+		</div>
+	</header>
+	<section id="projects" style="background-image: url(assets/img/diagonal.svg)">
+		<div class="container">
+		<h1>Projects</h1>
+		<div class="projects">
+			{%- for project in site.data.projects -%}
+			<a class="project-wrap" href="{{ project.link | default: "#" }}">
+			<div class="project">
+				<div 
+					class="project-image" 
+					style="background-image: url(assets/img/{{ project.img }})"
+				></div>
+				<div class="project-content">
+					<p class="project-by">{{ project.by }}</p>
+					<h2 class="project-title">{{ project.title }}</h2>
+					<p class="project-body">{{ project.description }}</p>
+				</div>
+			</div>
+			</a>
+			{%- endfor -%}
+		</div>
+		</div>
+	</section>
+</body>
+</html>

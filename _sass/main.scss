@@ -16,7 +16,7 @@ body {
 header {
 	display: flex;
 	flex-direction: column;
-	width: 480px;
+	max-width: 480px;
 	background-color: rgba(#fff, 0.6);
 		//box-shadow: 0 2px 16px 0 rgba(32,33,36,0.07), 
 					//0 16px 28px 0 rgba(32,33,36,0.09);

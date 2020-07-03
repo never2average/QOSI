@@ -87,7 +87,7 @@ a.project-wrap {
 }
 
 .project {
-	height: 420px;
+	height: 440px;
 	margin-bottom: 20px;
 	box-shadow: 0 2px 5px 0 rgba(32,33,36,0.05), 
 				0 19px 38px 0 rgba(32,33,36,0.04);
@@ -114,6 +114,7 @@ a.project-wrap {
 	&-title {
 		transition: color .3s ease-in;
 		margin-top: -5px;
+		line-height: 1.3em;
 	}
 	&-content {
 		padding: 0 20px;

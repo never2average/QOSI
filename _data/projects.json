@@ -73,7 +73,7 @@
   },
   {
     "title": "SWD BITS Goa",
-    "img": "WebD.jpg",
+    "img": "WEBD.jpg",
     "by": "SWD",
     "description": "The new SWD Website still requires some bug fixes and feature implementations on both the front-end and back-end side. Front-end uses django templates with css, back-end uses django. Contributors are expected to have a working knowledge of django and git."
   },

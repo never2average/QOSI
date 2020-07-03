@@ -1,26 +1,98 @@
 [
   {
-    "title": "Project Title",
-    "img": "placeholder.png",
-    "by": "Club",
-    "description": "Dolor eius odio voluptas molestias eaque cumque Reiciendis quidem saepe nobis saepe dolor. Libero repellendus fugit mollitia ex a A quos aperiam blanditiis cum non tempora? Enim veritatis molestiae non"
+    "title": "BCI-bot",
+    "img": "BCI.jpg",
+    "by": "SEDS Celestia",
+    "description": " Aim of this project is controlling the motion of a rover using a BCI. In this, we would be dealing with different aspects of neurology, lots of deep learning and computing algorithms, circuitry as well as robotics. "
   },
   {
-    "title": "Project Title",
-    "img": "placeholder.png",
-    "by": "Club",
-    "description": "Dolor eius odio voluptas molestias eaque cumque Reiciendis quidem saepe nobis saepe dolor. Libero repellendus fugit mollitia ex a A quos aperiam blanditiis cum non tempora? Enim veritatis molestiae non"
+    "title": "Aerodynamics Club Website Development",
+    "img": "WEBD.jpg",
+    "by": "AeroD",
+    "description": "The Aerodynamics club has been developing its website which plans to showcase our ongoing projects, have interesting articles amongst other features."
   },
   {
-    "title": "Project Title",
-    "img": "placeholder.png",
-    "by": "Club",
-    "description": "Dolor eius odio voluptas molestias eaque cumque Reiciendis quidem saepe nobis saepe dolor. Libero repellendus fugit mollitia ex a A quos aperiam blanditiis cum non tempora? Enim veritatis molestiae non"
+    "title": "AR StoryboARD",
+    "img": "AR.jpg",
+    "by": "AR Developers Group",
+    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
   },
   {
-    "title": "Project Title",
-    "img": "placeholder.png",
-    "by": "Club",
-    "description": "Dolor eius odio voluptas molestias eaque cumque Reiciendis quidem saepe nobis saepe dolor. Libero repellendus fugit mollitia ex a A quos aperiam blanditiis cum non tempora? Enim veritatis molestiae non"
+    "title": "Externally Randomized Encryption Service",
+    "img": "encryption.jpg",
+    "by": "SEDS Celestia",
+    "description": "We aim to create a robust encryption service using a randomly generated key and suitable algorithms. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation."
+  },
+  {
+    "title": "Quantum Algorithms",
+    "img": "Quantum.jpg",
+    "by": "SEDS Celestia",
+    "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will also attempt to build a classical implementation of the Deutsch Algorithm using an optical approach. We will be covering the basics of Q# using Microsoft's quantum katas."
+  },
+  {
+    "title": "Algorithmic Financial Trading with Deep CNN",
+    "img": "Finance.jpg",
+    "by": "WSC",
+    "description": "Implementation of a proposed novel algorithmic trading model CNN-TA using a 2-D Convolutional Neural Network based on image processing properties."
+  },
+  {
+    "title": "Windows Service",
+    "img": "Windows.jpg",
+    "by": "BITSKrieg",
+    "description": "A windows service is an application which runs in the background. In this project, a windows service will be built to monitor key events: registry changes, process monitoring, and drive mounting detection. This can eventually become a program to provide alerts for malicious activity."
+  },
+  {
+    "title": "XXS Automator",
+    "img": "XXS.jpg",
+    "by": "BITSKrieg",
+    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+  },
+  {
+    "title": "Cryptographer",
+    "img": "Crypto.jpg",
+    "by": "BITSKrieg",
+    "description": "This project intends to be a swiss army knife of cracking classical cryptography, eventually accommodating advanced features such as brute-force attacks and dictionary attacks."
+  },
+  {
+    "title": "Robot Acoustic Localisation (RAL)",
+    "img": "RAL.jpg",
+    "by": "ERC",
+    "description": "Our aim is to develop an open source module that uses ultrasonic pulses to localise a team of robots and to detect environmental obstacles simultaneously that can be implemented in any generic robotics project."
+  },
+  {
+    "title": "Gennav",
+    "img": "Gennav.png",
+    "by": "ERC",
+    "description": "Building a collection of robotics navigation algorithms for multipurpose usage."
+  },
+  {
+    "title": "RoManOV",
+    "img": "Arm.jpg",
+    "by": "ERC",
+    "description": "The goal here is to build a robotic arm that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Convolutional Neural Networks, Deep Learning and Computer Vision."
+  },
+  {
+    "title": "SWD BITS Goa",
+    "img": "WebD.jpg",
+    "by": "SWD",
+    "description": "The new SWD Website still requires some bug fixes and feature implementations on both the front-end and back-end side. Front-end uses django templates with css, back-end uses django. Contributors are expected to have a working knowledge of django and git."
+  },
+  {
+    "title": "DecodET: ExtraTerrestrial Proteins & DL",
+    "img": "Bio.jpg",
+    "by": "Kratos",
+    "description": "In this project, we will be looking at ways to improving the currently available deep learning models for structure prediction, similarity assessment, and classification of protein sequences."
+  },
+  {
+    "title": "Decepticonlp",
+    "img": "AI.jpg",
+    "by": "SAIDL",
+    "description": "Decepticonlp is a python library for Robustness Monitoring and Adversarial Debugging of NLP models, we propose an effective tool for researchers and developers to monitor the robustness of their models."
+  },
+  {
+    "title": "Scanf()",
+    "img": "MA.png",
+    "by": "DevSoc",
+    "description": "Scanner to convert images to PDFs (CamScanner like functionality)."
   }
 ]

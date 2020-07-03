@@ -9,6 +9,7 @@
     "title": "Aerodynamics Club Website Development",
     "img": "WEBD.jpg",
     "by": "AeroD",
+    "link": "https://github.com/AeroDBPGC/website",
     "description": "The Aerodynamics club has been developing its website which plans to showcase our ongoing projects, have interesting articles amongst other features."
   },
   {
@@ -27,6 +28,7 @@
     "title": "Quantum Algorithms",
     "img": "Quantum.jpg",
     "by": "SEDS Celestia",
+    "link": "https://github.com/microsoft/QuantumKatas/tree/master/CHSHGame",
     "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will also attempt to build a classical implementation of the Deutsch Algorithm using an optical approach. We will be covering the basics of Q# using Microsoft's quantum katas."
   },
   {
@@ -63,18 +65,21 @@
     "title": "Gennav",
     "img": "Gennav.png",
     "by": "ERC",
+    "link": "https://github.com/ERC-BPGC/gennav/",
     "description": "Building a collection of robotics navigation algorithms for multipurpose usage."
   },
   {
     "title": "RoManOV",
     "img": "Arm.jpg",
     "by": "ERC",
+    "link": "https://github.com/users/abhidxt299/projects/1",
     "description": "The goal here is to build a robotic arm that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Convolutional Neural Networks, Deep Learning and Computer Vision."
   },
   {
     "title": "SWD BITS Goa",
     "img": "WEBD.jpg",
     "by": "SWD",
+    "link": "https://github.com/swd-bits-goa/swd_django",
     "description": "The new SWD Website still requires some bug fixes and feature implementations on both the front-end and back-end side. Front-end uses django templates with css, back-end uses django. Contributors are expected to have a working knowledge of django and git."
   },
   {
@@ -87,6 +92,7 @@
     "title": "Decepticonlp",
     "img": "AI.jpg",
     "by": "SAIDL",
+    "link": "https://github.com/SforAiDl/decepticonlp",
     "description": "Decepticonlp is a python library for Robustness Monitoring and Adversarial Debugging of NLP models, we propose an effective tool for researchers and developers to monitor the robustness of their models."
   },
   {

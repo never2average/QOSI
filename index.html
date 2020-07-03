@@ -17,6 +17,9 @@
 		<div>
 			<h1>Quark Open Source Initiative</h1>
 			<p>Encouraging young minds to contribute to open source</p>
+			<a href="https://bp-gc.in/qosi-reg" target="_blank">
+				<button class="blue">Register</button>
+			</a>
 			<a href="#projects">
 				<button>See Projects</button>
 			</a>
@@ -24,7 +27,7 @@
 	</header>
 	<section id="projects" style="background-image: url(assets/img/diagonal.png);">
 		<div class="container">
-		<h1>Projects</h1>
+		<h1 style="margin-left: 16px">Projects</h1>
 		<div class="projects">
 			{%- for project in site.data.projects -%}
 			<a class="project-wrap" href="{{ project.link | default: "#" }}">

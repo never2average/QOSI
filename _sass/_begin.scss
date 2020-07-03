@@ -8,6 +8,8 @@ $mobileWidth: 540px;
 $tabWidth: 768px;
 $desktopWidth: 1024px;
 
+$text: #2A3D45;
+
 *,*:before,*:after {
   box-sizing: border-box;
 }
@@ -33,7 +35,7 @@ body {
   font-size: 16px;
   line-height: 1.3em;
   margin: 0;
-  color: #2A3D45;
+  color: $text;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -96,6 +96,20 @@
     "description": "Decepticonlp is a python library for Robustness Monitoring and Adversarial Debugging of NLP models, we propose an effective tool for researchers and developers to monitor the robustness of their models."
   },
   {
+    "title": "Portfolio Generator",
+    "img": "Port.jpg",
+    "by": "DevSoc",
+    "link": "https://github.com/arpitbhardwaj24/porfolio-gen",
+    "description": "Create a digital Portfolio in few minutes, by filling our intuitive form.Portfolio Generator will host your Portfolio on the fastest web servers and will provide you an easy - to - share bp - gc.in short link."
+  },
+  {
+    "title": "URL Shortner",
+    "img": "url.png",
+    "by": "DevSoc",
+    "link": "https://github.com/Devsoc-BPGC/Tiny-Url",
+    "description": "BITS Goa's very own tiny url generator for shortening urls."
+  },
+  {
     "title": "Scanf()",
     "img": "MA.png",
     "by": "DevSoc",

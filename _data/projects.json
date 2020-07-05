@@ -96,6 +96,13 @@
     "description": "Decepticonlp is a python library for Robustness Monitoring and Adversarial Debugging of NLP models, we propose an effective tool for researchers and developers to monitor the robustness of their models."
   },
   {
+    "title": "GenRL",
+    "img": "genrl (1).jpg",
+    "by": "SAIDL",
+    "link": "https://github.com/SforAiDl/genrl",
+    "description": "GenRL is a PyTorch reinforcement learning library centered around reproducible and generalizable algorithm implementations. We aim to provide fast paper reproduction and benchmarking to researchers. We eventually aim to support the implementation of any new RL algorithm in less than 100 lines of code."
+  },
+  {
     "title": "Portfolio Generator",
     "img": "Port.jpg",
     "by": "DevSoc",

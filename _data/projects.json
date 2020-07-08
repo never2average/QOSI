@@ -38,6 +38,13 @@
     "description": "Implementation of a proposed novel algorithmic trading model CNN-TA using a 2-D Convolutional Neural Network based on image processing properties."
   },
   {
+    "title": "Noodle LMS",
+    "img": "noodle.png",
+    "by": "CTE",
+    "link": "https://github.com/samarsault/noodle",
+    "description": "Noodle is the learning management system that powers CTE courses. The core functionality involves registrations, course content, quizzes and more."
+  },
+  {
     "title": "Windows Service",
     "img": "Windows.jpg",
     "by": "BITSKrieg",

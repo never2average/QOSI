@@ -22,20 +22,22 @@
     "title": "Externally Randomized Encryption Service",
     "img": "encryption.jpg",
     "by": "SEDS Celestia",
+    "link":"https://github.com/SEDSCelestiaBPGC/Externally-Randomized-Encryption-Service",
     "description": "We aim to create a robust encryption service using a randomly generated key and suitable algorithms. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation."
   },
   {
     "title": "Quantum Algorithms",
     "img": "Quantum.jpg",
     "by": "SEDS Celestia",
-    "link": "https://github.com/microsoft/QuantumKatas/tree/master/CHSHGame",
+    "link": "https://github.com/SEDSCelestiaBPGC/quantum-algorithms.git",
     "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will be covering the basics of Q# using Microsoft's quantum katas."
   },
   {
     "title": "Algorithmic Financial Trading with Deep CNN",
     "img": "Finance.jpg",
     "by": "WSC",
-    "description": "Implementation of a proposed novel algorithmic trading model CNN-TA using a 2-D Convolutional Neural Network based on image processing properties."
+    "description": "Implementation of a proposed novel algorithmic trading model CNN-TA using a 2-D Convolutional Neural Network based on image processing properties.",
+    "link": "https://github.com/adityaaryan24/Algorthmic-Trading-Using-CNN"
   },
   {
     "title": "Noodle LMS",
@@ -48,18 +50,21 @@
     "title": "Windows Service",
     "img": "Windows.jpg",
     "by": "BITSKrieg",
+    "link": "https://github.com/bitskriegofficial/WinService",
     "description": "A windows service is an application which runs in the background. In this project, a windows service will be built to monitor key events: registry changes, process monitoring, and drive mounting detection. This can eventually become a program to provide alerts for malicious activity."
   },
   {
     "title": "XSS Detection",
     "img": "XXS.jpg",
     "by": "BITSKrieg",
+    "link": "https://github.com/bitskriegofficial/CheXSS",
     "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
   },
   {
-    "title": "Cryptographer",
+    "title": "Kryptographer",
     "img": "Crypto.jpg",
     "by": "BITSKrieg",
+    "link": "https://github.com/bitskriegofficial/Kryptographer",
     "description": "This project intends to be a swiss army knife of cracking classical cryptography, eventually accommodating advanced features such as brute-force attacks and dictionary attacks."
   },
   {
@@ -93,6 +98,7 @@
     "title": "DecodET: ExtraTerrestrial Proteins & DL",
     "img": "Bio.jpg",
     "by": "Kratos",
+    "link": "https://github.com/Kratos-The-Rover/DecodET",
     "description": "In this project, we will be looking at ways to improving the currently available deep learning models for structure prediction, similarity assessment, and classification of protein sequences."
   },
   {

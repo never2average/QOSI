@@ -3,7 +3,8 @@
     "title": "BCI-bot",
     "img": "BCI.png",
     "by": "SEDS Celestia",
-    "description": " Aim of this project is controlling the motion of a rover using a BCI. In this, we would be dealing with different aspects of neurology, lots of deep learning and computing algorithms, circuitry as well as robotics. "
+    "description": " Aim of this project is controlling the motion of a rover using a BCI. In this, we would be dealing with different aspects of neurology, lots of deep learning and computing algorithms, circuitry as well as robotics. ",
+    "link": "https://github.com/SEDSCelestiaBPGC/BCI.git"
   },
   {
     "title": "Aerodynamics Club Website Development",
@@ -16,7 +17,8 @@
     "title": "AR StoryboARD",
     "img": "AR.jpg",
     "by": "AR Developers Group",
-    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
+    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms.",
+    "link": "https://github.com/AshwaniKottapalli/StoryboARd"
   },
   {
     "title": "Externally Randomized Encryption Service",
@@ -43,7 +45,7 @@
     "title": "Noodle LMS",
     "img": "noodle.png",
     "by": "CTE",
-    "link": "https://github.com/samarsault/noodle",
+    "link": "https://github.com/samarsault/noodle-flavour-cte",
     "description": "Noodle is the learning management system that powers CTE courses. The core functionality involves registrations, course content, quizzes and more."
   },
   {

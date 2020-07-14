@@ -28,11 +28,11 @@
     "description": "We aim to create a robust encryption service using a randomly generated key and suitable algorithms. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation."
   },
   {
-    "title": "Quantum Algorithms",
+    "title": "Quantum Chess",
     "img": "Quantum.jpg",
     "by": "SEDS Celestia",
     "link": "https://github.com/SEDSCelestiaBPGC/quantum-algorithms.git",
-    "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will be covering the basics of Q# using Microsoft's quantum katas."
+    "description": "The project aims to create a fully functional quantum chessboard for two players. Quantum chess has the same basic rules as classical chess, but also lends its pieces quantum abilities like superposition and entanglement to give this classic game an exciting kick."
   },
   {
     "title": "Algorithmic Financial Trading with Deep CNN",

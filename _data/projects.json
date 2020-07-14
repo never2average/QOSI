@@ -70,12 +70,6 @@
     "description": "This project intends to be a swiss army knife of cracking classical cryptography, eventually accommodating advanced features such as brute-force attacks and dictionary attacks."
   },
   {
-    "title": "Robot Acoustic Localisation (RAL)",
-    "img": "RAL.jpg",
-    "by": "ERC",
-    "description": "Our aim is to develop an open source module that uses ultrasonic pulses to localise a team of robots and to detect environmental obstacles simultaneously that can be implemented in any generic robotics project."
-  },
-  {
     "title": "Gennav",
     "img": "Gennav.png",
     "by": "ERC",
@@ -135,6 +129,21 @@
     "title": "Scanf()",
     "img": "MA.png",
     "by": "DevSoc",
-    "description": "Scanner to convert images to PDFs (CamScanner like functionality)."
+    "description": "Scanner to convert images to PDFs (CamScanner like functionality).",
+    "link": "https://github.com/Devsoc-BPGC/scanf-app"
+  },
+  {
+    "title": "GREat",
+    "description": "The aim of the project is to remove create a multiplatform (web, ios, android) one stop destination for students preparing for exams like GRE, TOEFL, etc. The app will consist of flashcards with mnemonic techniques and timed tests from the best resources.",
+    "by": "SiteX",
+    "img": "gre.png",
+    "link": "https://github.com/SiteX-DigiTech/GRE-Prep"
+  },
+  {
+    "title": "All in one Ecommerce app",
+    "description": "Ecommerce app to display various products and compare prices so that products can be bought directly from the app instead of visiting multiple sites. The app will be able to tell whether products are Indian or not.",
+    "by": "SiteX",
+    "img": "e-commerce.png",
+    "link": "https://github.com/SiteX-DigiTech/Ecommerce-App"
   }
 ]

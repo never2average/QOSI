@@ -112,11 +112,11 @@
     "description": "GenRL is a PyTorch reinforcement learning library centered around reproducible and generalizable algorithm implementations. We aim to provide fast paper reproduction and benchmarking to researchers. We eventually aim to support the implementation of any new RL algorithm in less than 100 lines of code."
   },
   {
-    "title": "Portfolio Generator",
+    "title": "Chocolate Mint",
     "img": "Port.jpg",
     "by": "DevSoc",
     "link": "https://github.com/arpitbhardwaj24/porfolio-gen",
-    "description": "Create a digital Portfolio in few minutes, by filling our intuitive form.Portfolio Generator will host your Portfolio on the fastest web servers and will provide you an easy - to - share bp - gc.in short link."
+    "description": "Chocolate Mint is a Command Line slug generator that lets user shorten their long command line code and generate a custom command line code for it. This small easy-to-share command can be used anywhere across the internet."
   },
   {
     "title": "URL Shortner",

@@ -1,5 +1,12 @@
 [
   {
+    "title": "BetterHire",
+    "img": "devsoc_logo.jpg",
+    "by": "Developer Society, BITS Goa",
+    "description": "BetterHire is a 'fair for all' tool meant to remove any kind of bias(including subconscious bias) during hiring/promotions in tech companies(specifically for software engineers) that might creep in during candidate interviews on the basis of immutable characteristics and even some mutable characteristics such as accent.",
+    "link": "https://github.com/Devsoc-BPGC/BetterHire"
+  },
+  {
     "title": "BCI-bot",
     "img": "BCI.png",
     "by": "SEDS Celestia",
